@@ -12,16 +12,28 @@ La façon de faire est, u formulaire est créer demandant le nom de l'événemen
 
 
 ## Image
+
 - Le calendrier
+  
 ![Le Calendrier](img_propostion_creative/calendrier_1.png)
+
 - Le reste du calendrier
+  
 ![Le reste du calendrier](img_propostion_creative/calendrier_2.png)
+
 - la liste des mois dans l'autre calendrier
+  
 ![Le calendrier avec sa liste de mois](img_propostion_creative/calendrier_liste.png)
+
 - Le formulaire
+  
 ![Le formulaire](img_propostion_creative/form.png)
+
 - Le reste du formulaire
+  
 ![Le reste du formulaire](img_propostion_creative/form_2.png)
+
 - Les réponses du formulaire dans le google sheet
+  
 ![Les réponses du formulaire](img_propostion_creative/reponses_form.png)
 
