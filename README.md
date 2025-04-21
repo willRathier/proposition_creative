@@ -9,3 +9,11 @@ L'idée du calendrier connecté est de faire en sorte que tout le monde peut ajo
 
 #### Planification
 La façon de faire est, u formulaire est créer demandant le nom de l'événement, la date, quel programme est relié et qui est repsonsable de ce programme ou événement. Toutes ces réponses sont ensuite envoyé dans un tableau google sheet automatiquement et ensuite le titre de l'événement est créer. Donc, les personnes qui répondent au formulaire n'ont rien d'autre à faire autre que de répondre le reste est créer automatiquement.
+
+
+## Image
+![Le formulaire](.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
