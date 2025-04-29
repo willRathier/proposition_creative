@@ -37,3 +37,8 @@ La façon de faire est, u formulaire est créer demandant le nom de l'événemen
   
 ![Les réponses du formulaire](img_propostion_creative/reponses_form.png)
 
+### En pratique
+En pratique le calendrier n'est pas facile d'implanté l'idée dans l'entreprise, car les employés ont déjà leur calendrier qu'ils utilisent. Par contre pou ce qui est d'un calendrier commun pour une idée plus précise comme exemple le calendrier des publications c'est plus simple d'utiliser. Parce que ça aide les employés a se référer à un endroit plutôt que de devoir vérifier dans le calendrier de chacun pour voir ce qui arrive prochainement.
+
+Aussi, mon premier exemple pour l'utilsation du calendrier est de planifier les publicaations pour une entreprise en lien avec SPorts Laval, mais qui est externe, donc le calendrier vient à la rescourse, car pas besoin d'être dans nos fichiers ou sur place pour planifier les publications, la personne a juste besoin de remplir le formulaire et tout sera transmis dans le fichier google sheet auquel les gens des communications ont accès.
+
